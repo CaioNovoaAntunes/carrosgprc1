@@ -1,0 +1,14 @@
+Git é um sistema de controle de versão gratuito com código aberto, feito para versionamento dos códigos, mas existem outros sistemas de versionamento, mas o Git é o software mais conhecido nesse ramo.
+Você consegue criar histórico através dele, 
+fazendo check point através dos commit's, 
+tendo histórico das coisas que fez ao longo do tempo, 
+mas precisamos de um agente externo para trabalhar de forma colaborativa, 
+é aonde entra o github, o qual é uma plataforma de hospedagem de código para colaboração e versão,
+ mas poderiamos utilizar o gitbucket.
+
+branch é o ramo que você estará mexendo, são ramificações que você pode alterar e fazer o que quiser,
+ mas funciona como se fosse uma cópia o qual você trabalha nela e não mexe na Master, 
+pois não devemos fazer mudanças no projeto  real até que tenha certeza do funcionamento do nosso produto.
+
+
+
